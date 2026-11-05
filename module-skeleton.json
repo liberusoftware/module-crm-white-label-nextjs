@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-white-label-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-white-label",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-white-label-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/white-label.md",
+  "presentationPlan": "projects/crm/nextjs/white-label.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
